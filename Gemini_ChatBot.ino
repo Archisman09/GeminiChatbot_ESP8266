@@ -3,9 +3,9 @@
 #include <WiFiClientSecure.h>
 #include <ArduinoJson.h>
 
-const char* ssid = "ArchiHot";
-const char* password = "09/06/2004";
-const char* Gemini_Token = "AIzaSyCgHpS617_huHyOlDa7T9LfnWcHyp4r7k4";
+const char* ssid = "";
+const char* password = "";
+const char* Gemini_Token = "";
 const char* Gemini_Max_Tokens = "1000";
 String res = "";
 
